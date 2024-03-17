@@ -4,6 +4,11 @@
 
 Software developer with an interest in linguistics. I'm unable to stop learning.
 
+Things I'm currently on:
+* Linux
+* Databases
+* APIs
+
 ## Languages & Tools
 <div>
   
