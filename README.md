@@ -24,8 +24,6 @@ Things I'm currently on:
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/6be17d6b-db25-4cd1-a02a-fa4593f00af1" alt="Javascript" width="5%"/></a>
   <a href="https://spring.io/projects/spring-boot/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/1a7459e8-6d74-4128-b6d7-ea7c4f8c3cda" alt="Spring Boot" width="5%"/></a>
   <a href="https://react.dev/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/dddec80b-48d1-468a-8b2c-36556d233112" alt="React" width="5%"/></a>
-</div>    
-<div>
   
   ### Tools & technologies
   <a href="https://www.linux.org/">
