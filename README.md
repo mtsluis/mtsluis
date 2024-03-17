@@ -19,6 +19,12 @@ Things I'm currently on:
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/mtsluis/mtsluis/assets/151209805/564c808c-e188-4e27-848e-a4cdf938407a" width="5%">
       <img alt="Java" src="">
     </picture>
+  <a href="https://www.python.org/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/9faf0ff8-f56f-482d-a57b-6c52c8506925" alt="Python" width="5%"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/6be17d6b-db25-4cd1-a02a-fa4593f00af1" alt="Javascript" width="5%"/></a>
+  <a href="https://spring.io/projects/spring-boot/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/1a7459e8-6d74-4128-b6d7-ea7c4f8c3cda" alt="Spring Boot" width="5%"/></a>
+  <a href="https://react.dev/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/dddec80b-48d1-468a-8b2c-36556d233112" alt="React" width="5%"/></a>
+  
+  ### Tools & technologies
   </a>
   <a href="https://www.linux.org/">
     <picture>
@@ -27,12 +33,6 @@ Things I'm currently on:
       <img alt="Linux" src="">
     </picture>
   </a>
-  <a href="https://www.python.org/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/9faf0ff8-f56f-482d-a57b-6c52c8506925" alt="Python" width="5%"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/6be17d6b-db25-4cd1-a02a-fa4593f00af1" alt="Javascript" width="5%"/></a>
-  <a href="https://spring.io/projects/spring-boot/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/1a7459e8-6d74-4128-b6d7-ea7c4f8c3cda" alt="Spring Boot" width="5%"/></a>
-  <a href="https://react.dev/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/dddec80b-48d1-468a-8b2c-36556d233112" alt="React" width="5%"/></a>
-  
-  ### Tools & technologies
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/c8d99404-755f-4ee9-bf0b-648dd3f6d04a" alt="HTML logo" width="5%"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/54ca2a90-e7c8-4747-8718-dad4f6151b37" alt="CSS logo" width="5%"/></a>
   <a href="https://git-scm.com/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/29d32f0f-b24b-49ae-b903-08c28d08a18a" alt="Git logo" width="5%"/></a>
