@@ -2,9 +2,9 @@
 
 ## A little about me
 
-Software developer with an interest in linguistics. I'm unable to stop learning.
+I'm a software developer with an interest in linguistics. I'm unable to stop learning.
 
-Things I'm currently on:
+Things I'm currently exploring:
 * Linux
 * Databases
 * APIs
