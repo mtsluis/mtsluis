@@ -45,6 +45,7 @@ Things I'm currently exploring:
   <a href="https://nodejs.org/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/eb37c723-3f6b-49e9-b3fb-dabd2d377bef" alt="NodeJs" width="5%"/></a>
   <a href="https://www.postgresql.org/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/83b1a0f1-52c8-45d4-978e-58919e1f596d" alt="Postgres" width="5%"/></a>
   <a href="https://www.mysql.com/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/6bc07a62-8dae-49e9-aa26-fc5d067cb2b5" alt="MySQL" width="5%"/></a>
+  <a href="https://aws.amazon.com/dynamodb/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/3b46f47b-0924-4d1c-a481-30b80b653ba5" alt="DynamoDB" width="5%"/></a>
   <a href="https://www.docker.com/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/bbdc653f-1ae8-44a3-8451-c132e72ff46f" alt="Docker" width="5%"/></a>
   <a href="https://maven.apache.org/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/ade27500-4759-4e6c-9067-04b3e9a7d9a5" width="5%"/></a>
   <a href="https://dbeaver.io/">
