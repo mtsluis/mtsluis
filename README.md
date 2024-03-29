@@ -65,3 +65,7 @@ Things I'm currently exploring:
   <a href="https://code.visualstudio.com/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/3e90aa73-d853-4498-85a4-3dbc5337ce34" alt="VSCode" width="5%"/></a>
   <a href="https://vitejs.dev/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/813479b4-fd16-4a0f-a11e-b143bd5af5a3" alt="Vite" width="5%"/></a>
   <a href="https://www.figma.com/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/4f860fd0-e82a-4db8-9b8f-c5609a7b05a9" alt="Figma" width="5%"/></a>
+
+## Contact Me
+
+<a href="mailto:mtsluis@pm.me" target="_blank"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/b60b8057-cb95-476d-80e3-da00da21403f" alt="Mail" height="30" width="40" /></a>
