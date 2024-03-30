@@ -4,7 +4,7 @@
 
 I'm a software developer with an interest in linguistics. I'm unable to stop learning.
 
-Things I'm currently exploring:
+Things I'm currently working on:
 * Databases
 * APIs
 * Linux
