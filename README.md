@@ -22,7 +22,10 @@ Things I'm currently exploring:
   <a href="https://www.python.org/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/9faf0ff8-f56f-482d-a57b-6c52c8506925" alt="Python" width="5%"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/6be17d6b-db25-4cd1-a02a-fa4593f00af1" alt="Javascript" width="5%"/></a>
   <a href="https://spring.io/projects/spring-boot/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/1a7459e8-6d74-4128-b6d7-ea7c4f8c3cda" alt="Spring Boot" width="5%"/></a>
+  <a href="https://quarkus.io/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/0bd6ff69-ee97-4cf4-a9ac-dcc8901f8b09" alt="Spring Boot" width="5%"/></a>
   <a href="https://react.dev/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/dddec80b-48d1-468a-8b2c-36556d233112" alt="React" width="5%"/></a>
+
+
 
   ### Tools & technologies
   <a href="https://www.linux.org/">
