@@ -23,8 +23,6 @@ Things I'm currently working on:
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/6be17d6b-db25-4cd1-a02a-fa4593f00af1" alt="Javascript" width="5%"/></a>
   <a href="https://spring.io/projects/spring-boot/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/1a7459e8-6d74-4128-b6d7-ea7c4f8c3cda" alt="Spring Boot" width="5%"/></a>
   <a href="https://quarkus.io/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/0bd6ff69-ee97-4cf4-a9ac-dcc8901f8b09" alt="Spring Boot" width="5%"/></a>
-  <a href="https://react.dev/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/dddec80b-48d1-468a-8b2c-36556d233112" alt="React" width="5%"/></a>
-
 
 
   ### Tools & technologies
@@ -46,6 +44,7 @@ Things I'm currently working on:
     </picture>
   </a>
   <a href="https://nodejs.org/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/eb37c723-3f6b-49e9-b3fb-dabd2d377bef" alt="NodeJs" width="5%"/></a>
+  <a href="https://react.dev/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/dddec80b-48d1-468a-8b2c-36556d233112" alt="React" width="5%"/></a>
   <a href="https://www.postgresql.org/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/83b1a0f1-52c8-45d4-978e-58919e1f596d" alt="Postgres" width="5%"/></a>
   <a href="https://www.mysql.com/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/6bc07a62-8dae-49e9-aa26-fc5d067cb2b5" alt="MySQL" width="5%"/></a>
   <a href="https://aws.amazon.com/dynamodb/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/3b46f47b-0924-4d1c-a481-30b80b653ba5" alt="DynamoDB" width="5%"/></a>
