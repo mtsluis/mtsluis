@@ -47,6 +47,7 @@ Things I'm currently working on:
   <a href="https://react.dev/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/dddec80b-48d1-468a-8b2c-36556d233112" alt="React" width="5%"/></a>
   <a href="https://www.postgresql.org/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/83b1a0f1-52c8-45d4-978e-58919e1f596d" alt="Postgres" width="5%"/></a>
   <a href="https://www.mysql.com/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/6bc07a62-8dae-49e9-aa26-fc5d067cb2b5" alt="MySQL" width="5%"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/b1cbb461-e80a-4e97-b4bb-dd5671afa758" alt="MongoDb" width="5%"/></a>
   <a href="https://aws.amazon.com/dynamodb/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/3b46f47b-0924-4d1c-a481-30b80b653ba5" alt="DynamoDB" width="5%"/></a>
   <a href="https://www.docker.com/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/bbdc653f-1ae8-44a3-8451-c132e72ff46f" alt="Docker" width="5%"/></a>
   <a href="https://maven.apache.org/"><img src="https://github.com/mtsluis/mtsluis/assets/151209805/ade27500-4759-4e6c-9067-04b3e9a7d9a5" width="5%"/></a>
