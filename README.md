@@ -4,10 +4,11 @@
 
 I'm a software developer with a background in linguistics. I'm unable to stop learning.
 
-Things I'm currently working on:
+Things I'm currently on:
 * Databases
 * APIs
 * Linux
+* shell/bash
 
 ## Languages & Tools
 
