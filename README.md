@@ -5,7 +5,7 @@
 I'm a software developer with a background in linguistics. Always curious, always learning.
 
 Things I'm currently on:
-* Databases
+* WebDev
 * APIs
 * Linux
 * shell/bash
